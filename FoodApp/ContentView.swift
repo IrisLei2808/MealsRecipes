@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  FoodApp
-//
-//  Created by Duc Le on 6/13/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
